@@ -4,4 +4,4 @@ Repository created to store the code used in the capstone project of the google 
 
 
 
-[For the tableau dashboards check here]([https://public.tableau.com/views/Google_Bike_Share/AVGminutesride?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/FitbitInsights/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/FitbitInsights/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+[For the tableau dashboards check here](https://public.tableau.com/views/FitbitInsights/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
